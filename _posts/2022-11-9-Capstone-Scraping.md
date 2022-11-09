@@ -34,4 +34,6 @@ Another challenge was that scraping was time consuming. At first I tried to scra
 
 ![_config.yml](/images/Scraper.png)
 
+![_config.yml](/images/Short_scraper.png)
+
 In the end, I was able to scrape ~6,500 reviews, which became my dataset for the project. I'm glad I took on the challenge of scraping my own data and it was fun to work on a unique dataset for the project.
