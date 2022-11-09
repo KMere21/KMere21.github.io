@@ -21,7 +21,7 @@ Separately, I came across some projects looking at coffee ratings. Many of them 
 
 ## What Did I learn?
 
-* Beautiful Soupe is an awesome library
+* Beautiful Soup is an awesome library
 * Scraping messy data was pretty straight forward, but it was much more challenging to scrape the specific data I wanted
 * Scraping can be time consuming
 * A little help can go a long way
