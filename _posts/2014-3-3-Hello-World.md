@@ -30,6 +30,6 @@ My first attempt at scraping data was challenging and exciting. It was surprisin
 
 Another challenge was that scraping was time consuming. At first I tried to scrape a lot at once, only to have errors appear hours later and have to start over. It turned out that some of the older webpages had a different format that more recent ones, so I changed tactics. I created two 'scraper' functions. One requested more details and the other fewer to accommodate the content changes. I then ran the scraper in smaller chunks. I also added an exception so that the scraper would continue if it got an index error (meaning some of the data I requsted was missing).
 
-![scraper](Scraper.png)
+![_config.yml](/images/Scraper.png)
 
 In the end, I was able to scrape ~6,500 reviews, which became my dataset for the project. I'm glad I took on the challenge of scraping my own data and it was fun to work on a unique dataset for the project.
