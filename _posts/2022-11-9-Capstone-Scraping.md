@@ -5,7 +5,7 @@ date: 2022-11-9
 preview: true
 ---
 
-After 12 intense weeks of learning, I graduate from BrainStation's Data Science bootcamp this week. 
+After 12 intense weeks of learning, I graduate from [BrainStation's](https://brainstation.io/course/online/remote-data-science-bootcamp) Data Science bootcamp this week. 
 
 My capstone project is "Predicting Coffee Ratings from Expert Reviews". You can check out the full project in my [github](https://github.com/KMere21/capstone).
 
