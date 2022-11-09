@@ -24,6 +24,7 @@ Separately, I came across some projects looking at coffee ratings. Many of them 
 * Beautiful Soup is an awesome library
 * Scraping messy data was pretty straight forward, but it was much more challenging to scrape the specific data I wanted
 * Scraping can be time consuming
+* Scraping in smaller pieces reduced wasted time trouble-shooting errors
 * A little help can go a long way
 
 My first attempt at scraping data was challenging and exciting. It was surprisingly easy to scrape data but it was in a very messy format. I wanted to be more precise to make cleaning easier later. I spent a couple days banging my against the wall, and then asked a web developer for some help understanding the html text. Once I had a baseline for what I was looking for, I was on a roll. I could hone in on exactly what I needed and it was so satisfying. 
