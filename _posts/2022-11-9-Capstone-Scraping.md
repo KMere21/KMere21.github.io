@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Capstone Project: What I Learned About Scraping Data
+title: What I Learned Scraping Data for my Capstone
+date: 2022-11-9 
+preview: true
 ---
 
-# Capstone Project: Predicting Coffee Ratings from Expert Reviews
+## Capstone Project: Predicting Coffee Ratings from Expert Reviews
 
 After 12 intense weeks of learning, I graduate from BrainStation's Data Science bootcamp this week. 
 
 My capstone project is "Predicting Coffee Ratings from Expert Reviews". You can check out the full project in my [github](https://github.com/KMere21/capstone).
 
-## Picking a Topic & Scraping the Data
+### Picking a Topic & Scraping the Data
 
 In selecting a topic, I had a few parameters in mind. I wanted to:
 * Work on data that was relatively unexplored
@@ -19,7 +21,7 @@ In addition, a prior classmate scraped some data for a project we worked on toge
 
 Separately, I came across some projects looking at coffee ratings. Many of them seemed extensively explored, and I wasn't happy with the quality of the datasets. But I do enjoy coffee and the topic fit my "easy to understand" criteria. So, I decided to scrape my own data from [CoffeeReview.com](https://www.coffeereview.com/).
 
-## What Did I learn?
+### What Did I learn?
 
 * Beautiful Soup is an awesome library
 * Scraping messy data was pretty straight forward, but it was much more challenging to scrape the specific data I wanted
