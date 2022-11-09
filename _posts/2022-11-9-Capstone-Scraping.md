@@ -5,8 +5,6 @@ date: 2022-11-9
 preview: true
 ---
 
-## Capstone Project: Predicting Coffee Ratings from Expert Reviews
-
 After 12 intense weeks of learning, I graduate from BrainStation's Data Science bootcamp this week. 
 
 My capstone project is "Predicting Coffee Ratings from Expert Reviews". You can check out the full project in my [github](https://github.com/KMere21/capstone).
