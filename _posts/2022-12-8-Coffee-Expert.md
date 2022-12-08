@@ -32,18 +32,18 @@ Other areas where Olivia affirmed findings include:
 * ‘Flower’ having a positive relationship with the overall score; Gesha and many east African coffees have flower notes, both of which are anecdotally associated with high quality coffee
 * ‘Cleanly’ having a positive relationship with the overall score; this probably refers to a clean cup, which is part of the evaluation process and typically characteristic of washed Arabica; a ‘clean cup’ is associated with high quality coffee
 
-A few of the other features are less straightforward in interpreting why the model found them important, including ‘guava’, ‘almond’, ‘hibiscus’, and ‘winey’. Terms can be used differently, so in an ideal scenario we’d have definitions from the reviewers. While Coffee Review provides a useful [glossary](https://www.coffeereview.com/coffee-glossary/), these terms are unfortunately not defined in it. 
+Interpreting a few of the other features and why the model found them important is less straighforward, including ‘almond’, 'guava', ‘hibiscus’, and ‘winey’. One reason is that terms can be used differently, so in an ideal scenario we’d have definitions from the reviewers. While Coffee Review provides a useful [glossary](https://www.coffeereview.com/coffee-glossary/), these terms are unfortunately not defined in it. 
 
 Without a clearer understanding of their intended meaning, we are limited to speculation about these areas. Some of the potential explanations Olivia provided are as follows:
-* ‘Guava’ intrigued us both; this could be a reference to being acidic in a ‘mouth puckering way’ or having ‘biting acidity’; it could also be an indication of mouthfeel, not flavor
-* ‘Almond’ - Almond and cherry share the same aroma compound, they might be identifying this close relationship between the two
-* ‘Hibiscus’ - Hibiscus generally doesn’t have a strong aroma, so Olivia was curious about this one; we’d have to dig further to see if we can determine what they are referring to
-* ‘Winey’ - Winey could reference a lot of things; natural processed coffees tend to be more funky, like kombucha and have fermented notes; it could refer to mouthfeel or dark fruit aromas
+* ‘almond’ - Almond and cherry share the same aroma compound, they might be identifying this close relationship between the two
+* ‘guava’ intrigued us both; this could be a reference to being acidic in a ‘mouth puckering way’ or having ‘biting acidity’; it could also be an indication of mouthfeel, not flavor
+* ‘hibiscus’ - Hibiscus generally doesn’t have a strong aroma, so Olivia was curious about this one; we’d have to dig further to see if we can determine what they are referring to
+* ‘winey’ - Winey could reference a lot of things; natural processed coffees tend to be more funky, like kombucha and have fermented notes; it could refer to mouthfeel or dark fruit aromas
 
 
 ## Conclusion
 
-I really enjoyed chatting with Olivia about the findings and her expertise in coffee and sensory science. Our discussion affirmed some areas while also raising even more questions. Here are a few key take-aways:
-* Getting expert opinion is very important, especially when making recommendations that have real-world consequences 
+I really enjoyed chatting with Olivia about the findings and her expertise in coffee and sensory science. Our discussion affirmed some areas while also raising even more questions. Our discussion reinforced a few key aspects of working with and interpretting data:
+* When possible, getting expert opinion is very important, especially when making recommendations that have real-world consequences. 
 * Having shared definitions and understanding of terms is crucial for accurately interpreting findings. 
 * This is of course only one study. Further research and examining other models would be useful to see if they find similar features important. Recommendations made from this should be taken with some caution. 
