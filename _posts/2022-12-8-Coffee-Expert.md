@@ -6,7 +6,7 @@ preview: true
 ---
 
 ![_config.yml](/images/coffeefarm.png)
-<p align="center", font size = "3">
+<p align="center">
     <em>Coffee farm in Medellín, Colombia<em>
 </p>
 
