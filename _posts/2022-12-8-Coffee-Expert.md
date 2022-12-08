@@ -25,7 +25,6 @@ One of the interesting outcomes is that despite some of the limitations of the s
 In addition, because the final version used a Lasso Regression model, it’s possible to get direct insight into which features of the review were important to the model for predicting the overall score. To do this, we look at the coefficients. Those left of 0 in salmon have a negative relationship with the score, meaning as they increase, the overall score tends to decrease. Those to the right of 0 in blue have a positive relationship with the score, meaning as they increase, the overall score tends to increase too. 
 
 ![_config.yml](/images/top_features_modeling.png)
-*Top 30 features for predicting coffee rating*
 
 ### Feedback on the Findings
 
