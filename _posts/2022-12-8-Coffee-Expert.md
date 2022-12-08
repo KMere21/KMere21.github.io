@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capstone Followup - Conversation with a Coffee Expert
+title: Getting Expert Perspective, A Conversation with a Coffee Expert
 date: 2022-12-8
 preview: true
 ---
