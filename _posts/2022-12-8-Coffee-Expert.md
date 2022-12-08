@@ -5,6 +5,9 @@ date: 2022-12-8
 preview: true
 ---
 
+![_config.yml](/images/coffeefarm.png)
+*Coffee farm in Medellín, Colombia*
+
 While I enjoy great coffee and researched some background for my capstone project “Predicting Coffee Ratings from Expert Reviews”, I am not a coffee expert. Therefore, I wanted to follow up with someone from the industry to see what they thought of my findings. [Olivia Auell](https://www.linkedin.com/in/oliviaauell/), sensory scientist and coffee expert, graciously agreed to chat (full disclosure, we are friends from college). 
 
 ## The Source Data
@@ -22,6 +25,7 @@ One of the interesting outcomes is that despite some of the limitations of the s
 In addition, because the final version used a Lasso Regression model, it’s possible to get direct insight into which features of the review were important to the model for predicting the overall score. To do this, we look at the coefficients. Those left of 0 in salmon have a negative relationship with the score, meaning as they increase, the overall score tends to decrease. Those to the right of 0 in blue have a positive relationship with the score, meaning as they increase, the overall score tends to increase too. 
 
 ![_config.yml](/images/top_features_modeling.png)
+*Top 30 features for predicting coffee rating*
 
 ### Feedback on the Findings
 
