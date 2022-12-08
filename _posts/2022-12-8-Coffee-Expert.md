@@ -22,7 +22,7 @@ Finally, Olivia also raised an ethical concern with the cupping system. Coffee s
 
 One of the interesting outcomes is that despite some of the limitations of the source data discussed above, we can expect the final model to predict the overall score within one point of the actual score. Given overall scores range from 50-100, this is quite accurate. 
 
-In addition, because the final version used a Lasso Regression model, it’s possible to get direct insight into which features of the review were important to the model for predicting the overall score. To do this, we look at the coefficients. Those left of 0 in salmon have a negative relationship with the score, meaning as they increase, the overall score tends to decrease. Those to the right of 0 in blue have a positive relationship with the score, meaning as they increase, the overall score tends to increase too. 
+In addition, because the final version used a Lasso Regression model, it’s possible to get direct insight into which features of the review were important to the model for predicting the overall score. To do this, we look at the coefficients, visualized below. Those left of 0 in the salmon color have a negative relationship with the score, meaning as they increase, the overall score tends to decrease. Those to the right of 0 in blue have a positive relationship with the score, meaning as they increase, the overall score tends to increase too. 
 
 ![_config.yml](/images/top_features_modeling.png)
 
@@ -38,15 +38,15 @@ Other areas where Olivia affirmed findings include:
 Interpreting a few of the other features and why the model found them important is less straighforward, including ‘almond’, 'guava', ‘hibiscus’, and ‘winey’. One reason is that terms can be used differently, so in an ideal scenario we’d have definitions from the reviewers. While Coffee Review provides a useful [glossary](https://www.coffeereview.com/coffee-glossary/), these terms are unfortunately not defined in it. 
 
 Without a clearer understanding of their intended meaning, we are limited to speculation about these areas. Some of the potential explanations Olivia provided are as follows:
-* ‘almond’ - Almond and cherry share the same aroma compound, they might be identifying this close relationship between the two
+* ‘almond’ - almond and cherry share the same aroma compound, they might be identifying this close relationship between the two
 * ‘guava’ intrigued us both; this could be a reference to being acidic in a ‘mouth puckering way’ or having ‘biting acidity’; it could also be an indication of mouthfeel, not flavor
-* ‘hibiscus’ - Hibiscus generally doesn’t have a strong aroma, so Olivia was curious about this one; we’d have to dig further to see if we can determine what they are referring to
-* ‘winey’ - Winey could reference a lot of things; natural processed coffees tend to be more funky, like kombucha and have fermented notes; it could refer to mouthfeel or dark fruit aromas
+* ‘hibiscus’ - hibiscus generally doesn’t have a strong aroma, so Olivia was curious about this one; we’d have to dig further to see if we can determine what they are referring to
+* ‘winey’ - winey could reference a lot of things; natural processed coffees tend to be more funky, like kombucha and have fermented notes; it could refer to mouthfeel or dark fruit aromas
 
 
 ## Conclusion
 
-I really enjoyed chatting with Olivia about the findings and her expertise in coffee and sensory science. Our discussion affirmed some areas while also raising even more questions. Our discussion reinforced a few key aspects of working with and interpretting data:
+I really enjoyed chatting with Olivia about the findings and her expertise in coffee and sensory science. Our discussion affirmed some areas while also raising even more questions. Our discussion highlights some crucial considerations when working with and interpretting data:
 * When possible, getting expert opinion is very important, especially when making recommendations that have real-world consequences. 
 * Having shared definitions and understanding of terms is crucial for accurately interpreting findings. 
-* This is of course only one study. Further research and examining other models would be useful to see if they find similar features important. Recommendations made from this should be taken with some caution. 
+* This is of course only one study. Further research and examining other models would be useful to see if they find similar features important. Any recommendations made from the data should be taken with some caution. 
