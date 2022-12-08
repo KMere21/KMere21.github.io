@@ -6,9 +6,7 @@ preview: true
 ---
 
 ![_config.yml](/images/coffeefarm.png)
-<p align="center">
-    <em>Coffee farm in Medellín, Colombia<em>
-</p>
+<p style="text-align: center;"><em>Coffee farm in Medellín, Colombia</em></p>
 
 While I enjoy great coffee and researched some background for my capstone project “Predicting Coffee Ratings from Expert Reviews”, I am not a coffee expert. Therefore, I wanted to follow up with someone from the industry to see what they thought of my findings. [Olivia Auell](https://www.linkedin.com/in/oliviaauell/), sensory scientist and coffee expert, graciously agreed to chat (full disclosure, we are friends from college). 
 
