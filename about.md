@@ -4,20 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Working in sales operations sparked my interest in doing more with data. After exploring options, I joined BrainStation's Data Science bootcamp. I am excited to pair my business experience and data skills as a data scientist.
+With an undergraduate degree in social work and 5+ years’ experience working in cultural intelligence and diversity, equity, and inclusion (DEI), my passion is to center data science on the human experience to improve people’s lives. As the impact of data science grows, it’s crucial to thoughtfully consider the impact on real people’s lives and the world around us.
 
-### Date Science + Business + People. What does this mean?
+Data has powerful, exciting potential. However, it does not exist in a vacuum. We risk feeding data our own biases, and all data must be interpreted. I bring a holistic perspective to data interpretation: 
 
-For me, the most intriguing data science is focused on solving tangible problems in our world today. To this end, my background provides me with a unique perspective for balancing the needs of people and the business, as well as the technical skills to get the job done. 
+From social work, I consider psychological, sociological, political, and biological influences. I also consider potential impact at an individual, group, societal, and environmental level. My research and statistics foundation began with my social work degree, completing a practical, 3-part stats series as part of the program.
 
-For example, as a social worker, I learned to ask good questions to identify needs and potential solutions. This perspective centers on people. 
+From my work with cultural intelligence and DEI, I bring a cultural lens to data. How we relate to one another and the world is deeply culturally shaped, from how we interpret colors to how we persuade others or get buy-in. Further, I bring strategies for disrupting bias, which is critical as bias can unintentionally and intentionally shape data, from how it is collected and what is included to how it is interpreted. 
 
-As an operations manager, I created and improved processes to improve the company’s bottom line. This perspective centers on the business.
+From my MBA and experience working at a startup, I bring a practical, business-minded perspective. I understand the needs of a business and the priorities of different stakeholders. I've honed my skills a cross-functional collaboration, identifying pain points, and building consensus achieve solutions.
 
-Finally, data science gives me the technical skills to test hypotheses and generate useful predictive models. This perspective centers on how. 
-
-Data science in isolation is interesting. Figure out how to monetize it, and that is powerful. Leverage data science to improve people’s lives, and that is worthwhile.
-
-### Contact me
+### Contact Me
 
 [kmere21@gmail.com](mailto:kmere21@gmail.com)
