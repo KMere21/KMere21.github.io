@@ -6,7 +6,7 @@ permalink: /about/
 
 With an undergraduate degree in social work and 5+ years’ experience working in cultural intelligence and diversity, equity, and inclusion (DEI), my passion is to center data science on the human experience to improve people’s lives. As the impact of data science grows, it’s crucial to thoughtfully consider the impact on real people’s lives and the world around us.
 
-Data has powerful, exciting potential. However, it does not exist in a vacuum. We risk feeding data our own biases, and all data must be interpreted. I bring a holistic perspective to data interpretation: 
+Data has powerful, exciting potential. However, it does not exist in a vacuum. We risk feeding data our own biases, and all data must be interpreted. I bring a holistic perspective to data interpretation.
 
 From social work, I consider psychological, sociological, political, and biological influences. I also consider potential impact at an individual, group, societal, and environmental level. My research and statistics foundation began with my social work degree, completing a practical, 3-part stats series as part of the program.
 
