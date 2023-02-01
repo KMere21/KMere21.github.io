@@ -11,7 +11,7 @@ Learn more about the app and [try it for yourself](https://predict-coffee-rating
 
 ### Broader Applications: Model Preservation & Deployment
 
-![_config.yml](/images/pickle_picture.jpg)
+![_config.yml](/images/pickle_picture.png)
 
 **Pickling** 
 
