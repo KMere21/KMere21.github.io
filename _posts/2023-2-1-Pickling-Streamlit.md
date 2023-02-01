@@ -11,6 +11,8 @@ Learn more about the app and [try it for yourself](https://predict-coffee-rating
 
 ### Broader Applications: Model Preservation & Deployment
 
+![_config.yml](/images/pickle_picture.jpg)
+
 **Pickling** 
 
 While this particular model has a narrow focus, the process of preserving a trained model and moving it into production is broadly useful. To move a model into production, I had to decide which model I wanted to use and then preserve it. In this instance, I wanted to use one of my text only models so that people could easily feed in new review text and see how it performed. After running training and validation data on various text models, I used the R-squared score to choose a promising model. 
