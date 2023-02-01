@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pickling and Deploying and Interactive Data Application
-date: 2022-2-1 
+date: 2023-2-1 
 preview: true
 ---
 
