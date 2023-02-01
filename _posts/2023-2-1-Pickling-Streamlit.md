@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Pickling and Deploying and Interactive Data Application
+title: Deploying an Interactive Data Application
 date: 2023-2-1 
 preview: true
 ---
 
 During my data science bootcamp, we learned about [Streamlit](https://streamlit.io/), a really useful open-source app framework for deploying and sharing data projects. While working on my capstone, I used the tool to create a locally hosted app to demo my project. Now, I’ve created a version others can interact with! 
 
-Learn more about the app and [try it for yourself](https://kmere21-coffee-rating-demo-public-coffee-streamlit-a29dms.streamlit.app/)!
+Learn more about the app and [try it for yourself](https://predict-coffee-rating.streamlit.app/)!
 
 ### Broader Applications: Model Preservation & Deployment
 
@@ -17,7 +17,7 @@ While this particular model has a narrow focus, the process of preserving a trai
 
 Having done the project in Python, I then used “pickle” to preserve my model. This captures what my model learned from training data and allows it to be used in live applications. For more on pickling, check out Python’s documentation on pickling [here](https://docs.python.org/3/library/pickle.html).
 
-The code to do this was surprisingly simple. Here’s a sample of what it looked like to save my model from the Jupyter Notebook (with “url_pathway” as a placeholder for the actual pathway). 
+The code to do this was surprisingly simple. Here’s a sample of what it looked like to save my model from the Jupyter Notebook (with “url_pathway” as a placeholder for the actual pathway). The "tfidf_final" and "final_model" portions are references to the model itself, run earlier in the notebook.
 
 ![_config.yml](/images/pickle_code.png)
 
