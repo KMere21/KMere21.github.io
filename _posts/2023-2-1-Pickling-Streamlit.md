@@ -30,3 +30,5 @@ My end goal was to create an interactive app that anyone could test out. Streaml
 ![_config.yml](/images/pickle_streamlit_code.png)
 
 It was really rewarding to take my model from its “training grounds” in Jupyter Notebook and release it “in the wild” on Streamlit. I hope you enjoy testing it out!
+
+*Photo Credit: Kristina Snowasp from Pexels*
