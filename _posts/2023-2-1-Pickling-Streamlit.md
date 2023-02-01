@@ -33,4 +33,4 @@ It was really rewarding to take my model from its “training grounds” in Jupy
   
   
   
-*Photo Credit: Kristina Snowasp from Pexels*
+*Pickling Photo Credit: Kristina Snowasp from Pexels*
